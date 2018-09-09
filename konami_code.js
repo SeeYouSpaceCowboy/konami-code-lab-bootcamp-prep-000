@@ -27,6 +27,5 @@ function init() {
       window.alert("Hurray!");
       idx = 0
     }
-    
   });
 }
